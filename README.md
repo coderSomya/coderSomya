@@ -5,4 +5,5 @@
 💻 I mostly talk about Competitive Programming, Algorithms, Mathematics, Software developement, and System Design.
 
 I love solving engineering problems through creativity and Tech.
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=coderSomya)](https://github.com/anuraghazra/github-readme-stats)
 
