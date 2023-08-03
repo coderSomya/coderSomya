@@ -1,4 +1,5 @@
 ### Swagat Swagat Swagat! ![image](https://github.com/coderSomya/coderSomya/assets/98840655/11b26afb-77db-448c-80e2-458fb5462c3a)
+<b>This is Somyajeet</b>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codersomya&label=Profile%20views&color=0e75b6&style=flat" alt="codersomya" /> </p>
 I mostly talk about Competitive Programming, Algorithms, Software development, Databases, testing, security, and System design.
 I love solving engineering problems through creativity and Tech.
