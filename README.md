@@ -4,9 +4,11 @@
 I mostly talk about Competitive Programming, Algorithms, Software development, Databases, testing, security, and System design.
 I love solving engineering problems through creativity and Tech.
 
-- 📫 How to reach me **isomya13@gmail.com**
-
+- 📫 Reach out to me at **isomya13@gmail.com**
+- 💯 I am currently working on my startup *Campus Connect* **https://campus-connect-weld.vercel.app/**
+- 🤟🏻 When I ain't coding, I write stories, standup, or watch cricket
 - ⚡ Fun fact **I am ambidextrous**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
