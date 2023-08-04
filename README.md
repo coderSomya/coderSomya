@@ -7,7 +7,7 @@ I love solving engineering problems through creativity and Tech.
 
 - 📫 Reach out to me at **isomya13@gmail.com**
 - 💯 I am currently working on my startup *Campus Connect* **https://campus-connect-weld.vercel.app/**
-- 🤟🏻 When I ain't coding, I write stories, standup, or watch cricket
+- 🤟🏻 When I ain't coding, I write stories,do jokes, or watch cricket
 - ⚡ Fun fact **I am ambidextrous**
 
 
