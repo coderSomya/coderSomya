@@ -1,5 +1,5 @@
 ### Swagat Swagat Swagat! ![image](https://github.com/coderSomya/coderSomya/assets/98840655/11b26afb-77db-448c-80e2-458fb5462c3a)
-<b >This is Somyajeet</b>
+<b>My name is Somyajeet. I live mostly in 127.0.0.1 (and sometimes in the cloud)</b>
 <h5> Let me guess.. you are either from IIT Kharagpur, or my mom. </h5>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codersomya&label=Profile%20views&color=0e75b6&style=flat" alt="codersomya" /> </p>
 I mostly talk about Competitive Programming, Algorithms, Software development, Databases, testing, security, and System design.
@@ -9,7 +9,10 @@ I love solving engineering problems through creativity and Tech.
 - 💯 I am currently working on my startup *Campus Connect* **https://campus-connect-weld.vercel.app/**
 - 🤟🏻 When I ain't coding, I write stories,do jokes, or watch cricket
 - ⚡ Fun fact **I am ambidextrous**
-
+My goals this year are to 
+🔴 Learn Finance and Quant
+🟡 Deep dive into enterpreneurship, understanding the bottlenecks in startups and overcoming them
+🟢 Integrate NLP and Blockchain into my regular projects
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
