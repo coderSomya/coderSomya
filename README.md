@@ -9,10 +9,12 @@ I love solving engineering problems through creativity and Tech.
 - 💯 I am currently working on my startup *Campus Connect* **https://campus-connect-weld.vercel.app/**
 - 🤟🏻 When I ain't coding, I write stories,do jokes, or watch cricket
 - ⚡ Fun fact **I am ambidextrous**
+```
 My goals this year are to 
 🔴 Learn Finance and Quant
 🟡 Deep dive into enterpreneurship, understanding the bottlenecks in startups and overcoming them
 🟢 Integrate NLP and Blockchain into my regular projects
+```
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
