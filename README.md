@@ -3,7 +3,7 @@
 <h5> Let me guess.. you are either from IIT Kharagpur, or my mom. </h5>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codersomya&label=Profile%20views&color=0e75b6&style=flat" alt="codersomya" /> </p>
 I mostly talk about Competitive Programming, Algorithms, Software development, Databases, testing, security, and System design.
-I love solving engineering problems through creativity and Tech.
+I love solving engineering problems through creativity, maths and Tech.
 
 - 📫 Reach out to me at **isomya13@gmail.com**
 - 💯 I am currently working on my startup *Campus Connect* **https://campus-connect-weld.vercel.app/**
