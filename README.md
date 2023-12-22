@@ -9,6 +9,7 @@ I love solving engineering problems through creativity, Maths and Tech.
 - 💯 I am currently working on my startup *Campus Connect* **https://campus-connect-weld.vercel.app/**
 - 📺 I run a small youtube channel too, **https://www.youtube.com/channel/UCvVaOaGtpUOnnFFcX_cqerQ**
 - 🤟🏻 When I ain't coding, I write stories,do jokes, or watch cricket
+- 🦀 I am writing low latency code in Rust these days
 - ⚡ Fun fact **I am ambidextrous**
 ```
 My goals this year are to 
