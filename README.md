@@ -2,20 +2,20 @@
 <b>My name is Somyajeet. I live mostly in 127.0.0.1 (and sometimes in the cloud)</b>
 <h5> Let me guess.. you are either from IIT Kharagpur, or my mom. </h5>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codersomya&label=Profile%20views&color=0e75b6&style=flat" alt="codersomya" /> </p>
-I mostly talk about Competitive Programming, Algorithms, Software development, Databases, testing, security, and System design.
+I mostly talk about Competitive Programming, Algorithms, Software development, Databases, Machine Learning, security, and System design.
 I love solving engineering problems through creativity, Maths and Tech.
 
 - 📫 Reach out to me at **isomya13@gmail.com**
-- 💯 I am currently working on my startup *Campus Connect* **https://campus-connect-weld.vercel.app/**
+- 💯 I am currently working on my startup *Campus Connect* **https://www.campus-connect.pro**
 - 📺 I run a small youtube channel too, **https://www.youtube.com/channel/UCvVaOaGtpUOnnFFcX_cqerQ**
 - 🤟🏻 When I ain't coding, I write stories,do jokes, or watch cricket
 - 🦀 I am writing low latency code in Rust these days
 - ⚡ Fun fact **I am ambidextrous**
 ```
 My goals this year are to 
-🔴 Learn Finance and Quant
-🟡 Deep dive into enterpreneurship, understanding the bottlenecks in startups and overcoming them
-🟢 Integrate NLP and Blockchain into my regular projects
+🔴 Learn Finance, Quant and Business
+🟡 Do more of Competetive Programming
+🟢 Build end-to-end ML projects
 ```
 
 <h3 align="left">Connect with me:</h3>
