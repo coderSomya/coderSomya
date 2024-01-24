@@ -13,8 +13,8 @@ I love solving engineering problems through creativity, Maths and Tech.
 - ⚡ Fun fact **I am ambidextrous**
 ```
 My goals this year are to 
-🔴 Learn Finance, Quant and Business
-🟡 Do more of Competetive Programming
+🔴 Learn Finance, Quant, Trading and Business
+🟡 Do more of Competetive Programming, Rust and a lot of hackathons
 🟢 Build end-to-end ML projects
 ```
 
