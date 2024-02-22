@@ -14,7 +14,7 @@ I love solving engineering problems through creativity, Maths and Tech.
 ```
 My goals this year are to 
 🔴 Learn Finance, Quant, Trading and Business
-🟡 Do more of Competetive Programming, Rust and a lot of hackathons
+🟡 Do Rust and AWS
 🟢 Build end-to-end ML projects
 ```
 
