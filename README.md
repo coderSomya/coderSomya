@@ -1,26 +1,25 @@
 ### Swagat Swagat Swagat! ![image](https://github.com/coderSomya/coderSomya/assets/98840655/11b26afb-77db-448c-80e2-458fb5462c3a)
 <b>My name is Somyajeet. I live mostly in 127.0.0.1 (and sometimes in the cloud)</b>
-<h5> Let me guess.. you are either from IIT Kharagpur, or my mom. </h5>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codersomya&label=Profile%20views&color=0e75b6&style=flat" alt="codersomya" /> </p>
 I mostly talk about Competitive Programming, Algorithms, Software development, Databases, Machine Learning, security, and System design.
 I love solving engineering problems through creativity, Maths and Tech.
 
 - 📫 Reach out to me at **isomya13@gmail.com**
-- 💯 I am currently working on my startup *Campus Connect* **https://www.campus-connect.pro**
 - 📺 I run a small youtube channel too, **https://www.youtube.com/channel/UCvVaOaGtpUOnnFFcX_cqerQ**
 - 🤟🏻 When I ain't coding, I write stories,do jokes, or watch cricket
 - 🦀 I am writing low latency code in Rust these days
 - ⚡ Fun fact **I am ambidextrous**
 ```
 My goals this year are to 
-🔴 Learn Finance, Quant, Trading and Business
+🔴 Read a lot of novel white papers
 🟡 Do Rust and AWS
 🟢 Build end-to-end ML projects
 ```
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codeforces.com/profile/somya__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="somya__" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/somya-chowdhury-078464222/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/somya-chowdhury-078464222/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
