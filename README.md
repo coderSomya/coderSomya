@@ -11,10 +11,10 @@ I love solving engineering problems through creativity, Maths and Tech.
 - 🦀 I am writing low latency code in Rust these days
 - ⚡ Fun fact **I am ambidextrous**
 ```
-My goals this year are to 
+My goals in 2025 are to 
 🔴 Read a lot of novel white papers
-🟡 Do Rust and AWS
-🟢 Build end-to-end ML projects
+🟡 Build a few SaaS products
+🟢 Code 14-15 hours everyday with focus
 ```
 
 <h3 align="left">Connect with me:</h3>
