@@ -14,7 +14,7 @@ I love solving engineering problems through creativity, Maths and Tech.
 My goals in 2025 are to 
 🔴 Read a lot of novel white papers
 🟡 Build a few SaaS products
-🟢 Code 14-15 hours everyday with focus
+🟢 Learn ways to optimize python code, especially while working with Vision tasks
 ```
 
 <h3 align="left">Connect with me:</h3>
