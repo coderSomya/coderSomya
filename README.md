@@ -14,7 +14,9 @@ I love solving engineering problems through creativity, Maths and Tech.
 My goals in 2025 are to 
 🔴 Read a lot of novel white papers
 🟡 Build a few SaaS products
-🟢 Learn ways to optimize python code, especially while working with Vision tasks
+🟢 Speed up my python code, especially in Vision tasks
+🟣 Get into AR-VR
+🟠 Learn Zig programming language
 ```
 
 <h3 align="left">Connect with me:</h3>
