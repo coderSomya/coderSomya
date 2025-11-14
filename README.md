@@ -2,7 +2,7 @@
 <b>This is Somyajeet</b>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codersomya&label=Profile%20views&color=0e75b6&style=flat" alt="codersomya" /> </p>
-I do recreational programming mostly, and am particularly interested in the areas of systems programming, mathematics and data structures.
+I do recreational programming mostly, and am particularly interested in the areas of backend, systems programming, mathematics and data structures.
 
 - 📫 Reach out to me at **isomya13@gmail.com**
 - 📺 I run a small youtube channel too, **https://www.youtube.com/channel/UCvVaOaGtpUOnnFFcX_cqerQ**
