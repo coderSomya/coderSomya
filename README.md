@@ -16,7 +16,7 @@ My goals in 2026 are to
 🟢 Get richer, fitter and smarter in general
 🟠 Learn new skills - MLOps, Financial Math and Data Engineering
 🟣 Improve social media presence - do YT more, and post cool stuff on X, Linkedin
-🔵 Get very good at a mentally simulating thing - Trading, Chess, Poker or Betting
+🔵 Get very good at a mentally stimulating thing - Trading, Chess, Poker or Betting
 ```
 
 <h3 align="left">Connect with me:</h3>
