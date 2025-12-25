@@ -14,7 +14,7 @@ My goals in 2026 are to
 🔴 Read 50+ CS/AI/Quant books/white papers
 🟡 Build a few SaaS products and make money with'em
 🟢 Get richer, fitter and smarter in general
-🟠 Learn new skills - MLOps, Financial Math and Data Engineering
+🟠 Learn new skills - MLOps, Financial Math, Lean4 and Data Engineering
 🟣 Improve social media presence - do YT more, and post cool stuff on X, Linkedin
 🔵 Get very good at a mentally stimulating thing - Trading, Chess, Poker, Prediction Markets or Betting
 ```
